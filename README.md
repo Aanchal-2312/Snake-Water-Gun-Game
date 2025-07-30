@@ -33,10 +33,11 @@ Designed with beginner-friendly logic, fun visuals, and clean code for learning 
 ## Preview
 
 ### Gameplay
-![Gameplay Screenshot](gameplay_preview.png)
+![Gameplay Screenshot](Screenshots/gameplay_preview.png)
 
 ### Final Score Recap
-![Match Summary Screenshot](match_summary.png)
+![Match Summary Screenshot](Screenshots/match_summary.png)
+
 ---
 
 ## Getting Started
