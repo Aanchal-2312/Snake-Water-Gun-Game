@@ -83,7 +83,7 @@ def play_game():
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     filename = f"Game_logs/{name}_match_{timestamp}.txt"
 
-    with open(filename, "w") as file:
+    with open(filename, "w" ,encoding="utf-8") as file:
         file.write(f"🎮 Match Recap for {name} – {timestamp}\n")
         file.write("-" * 40 + "\n")
         for line in history:
